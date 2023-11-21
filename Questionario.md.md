@@ -15,3 +15,7 @@ R: Repositório é um local onde você pode armazenar seu código, arquivos e o 
 4 - O que é mesclar?
 
 R: Significa combinar as alterações feitas em dois ou mais branches em um único branch
+
+5 - O que é puxar?
+
+R: Quando há alguma atualização no repositorio remoto esta opção aplica estas atualizações no seu repositório local.
