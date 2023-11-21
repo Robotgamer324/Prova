@@ -23,3 +23,9 @@ R: Quando há alguma atualização no repositorio remoto esta opção aplica est
 7 - O que é galho?
 
 R: É uma cópia de um repositório que está separada do ramo principal
+
+8 - O que é pull request?
+
+R: Solicitação de pull é uma solicitação para mesclar as alterações feitas em uma ramificação com o ramo principal de um repositório.
+
+ 
