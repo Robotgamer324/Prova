@@ -28,4 +28,12 @@ R: É uma cópia de um repositório que está separada do ramo principal
 
 R: Solicitação de pull é uma solicitação para mesclar as alterações feitas em uma ramificação com o ramo principal de um repositório.
 
+9 - O que é garfo?
+
+R: É uma cópia de um repositório que é criada por um usuário diferente do proprietário original do repositório.
+
+
+
+ 
+
  
