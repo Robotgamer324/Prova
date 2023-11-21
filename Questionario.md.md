@@ -11,3 +11,7 @@ R: É o ato de preparar as informações para envio é como se embala-se o produ
 3 - O que é um repositório?
 
 R: Repositório é um local onde você pode armazenar seu código, arquivos e o histórico de revisão de cada arquivo. Os repositórios podem ter vários colaboradores e podem ser públicos ou particulares.
+
+4 - O que é mesclar?
+
+R: Significa combinar as alterações feitas em dois ou mais branches em um único branch
