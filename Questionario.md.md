@@ -19,3 +19,7 @@ R: Significa combinar as alterações feitas em dois ou mais branches em um úni
 5 - O que é puxar?
 
 R: Quando há alguma atualização no repositorio remoto esta opção aplica estas atualizações no seu repositório local.
+
+7 - O que é galho?
+
+R: É uma cópia de um repositório que está separada do ramo principal
