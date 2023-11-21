@@ -32,6 +32,9 @@ R: Solicitação de pull é uma solicitação para mesclar as alterações feita
 
 R: É uma cópia de um repositório que é criada por um usuário diferente do proprietário original do repositório.
 
+10 - O que é um VCS?
+
+R:S istema de controle de versões, é um software que permite rastrear e gerenciar as alterações feitas em um arquivo ou conjunto de arquivos ao longo do tempo
 
 
  
